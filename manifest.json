@@ -1,0 +1,7 @@
+{
+  "name": "Flatten Group Elements",
+  "id": "1210522315562457434",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
